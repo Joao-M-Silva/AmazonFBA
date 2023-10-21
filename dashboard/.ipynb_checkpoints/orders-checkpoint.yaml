@@ -1,0 +1,98 @@
+first:
+    Amy:
+        units:
+            tray:
+                number_units:
+                    504
+                exw_cost:
+                    3.0
+                  
+        shipping_cost:
+            150
+            
+        inspection_cost:
+            200
+            
+    Stella:
+        units:
+            bottle:
+                number_units:
+                    1008
+                exw_cost: 
+                    1.84
+                    
+            dish_wood_label:
+                number_units:
+                    2000
+                exw_cost:
+                    0.14
+                stock: 
+                    1496
+            
+            hand_wood_label:
+                number_units:
+                    2000
+                exw_cost:
+                    0.14
+                stock: 
+                    1496
+            
+            lotion_wood_label:
+                number_units:
+                    2000
+                exw_cost:
+                    0.14
+                stock: 
+                    1496
+            
+            chain:
+                number_units:
+                    1512
+                exw_cost:
+                    0.08
+            
+            package:
+                number_units:
+                    1000
+                exw_cost:
+                    1.6     
+                stock:
+                    496
+                    
+            cotton_pearl:
+                number_units:
+                    504
+                exw_cost:
+                    0.6
+                
+            card:
+                number_units:
+                    1000
+                exw_cost:
+                    0.1
+                stock:
+                    496
+        
+        shipping_cost:
+            1300
+            
+        assembly_cost:
+            10
+            
+        inspection_cost:
+            200
+            
+            
+                    
+                    
+            
+            
+            
+                    
+                    
+                    
+                
+           
+
+        
+    
